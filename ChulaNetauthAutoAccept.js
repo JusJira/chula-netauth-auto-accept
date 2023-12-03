@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Chula Netauth Auto Accept
 // @namespace    https://greasyfork.org/en/scripts/480362
+// @license MIT
 // @version      0.3
 // @description  Auto accept agreement's checkbox
 // @author       JusJira
